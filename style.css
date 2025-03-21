@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(15, 11, 25);
+}
+div {   
+    color: white;
+}
+.header {
+    color: white;
+    text-shadow: 0 0 0.5rem rgb(197, 193, 193);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 2px white solid;
+}
